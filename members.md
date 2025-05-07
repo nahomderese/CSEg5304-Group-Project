@@ -5,4 +5,4 @@ Group Members
 - Nahom Derese -----------> UGR/22514/13
 - Yeabsira Tesfaye -------> UGR/23263/13
 - Dunia Nebil  -----------> UGR/23777/13
-- Bahran Solomon  -----------> UGR/22583/13
+- Bahran Solomon  -------> UGR/22583/13
